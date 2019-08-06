@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<configSections>
+		<sectionGroup name="enyim.com">
+			<section name="memcached" type="Enyim.Caching.Configuration.MemcachedClientSection, Enyim.Caching" />
+		</sectionGroup>
+	</configSections>
+	<enyim.com>
+		<!-- 
+		Please read the documentation first:
+			http://github.com/enyim/EnyimMemcached/wiki/MemcachedClient-Configuration
+
+		Use this section as a template if you're connecting to regular memcached servers.
+		Note: you must have the enyim.com/memcached section if you're using the parameterless constructor of Enyim.Caching.MemcachedClient
+		-->
+		<memcached>
+			<servers>
+				<!-- make sure you use the same ordering of nodes in every configuration you have -->
+				<!-- 
+				<add address="10.0.10.2" port="11211" />
+				<add address="10.0.10.4" port="11211" />
+				-->
+			</servers>
+			<socketPool deadTimeout="00:00:10" />
+		</memcached>
+	</enyim.com>
+</configuration>

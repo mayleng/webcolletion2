@@ -1,0 +1,6 @@
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\bin\Release\ClassMydll.dll
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\bin\Release\ClassMydll.pdb
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\obj\Release\ClassMydll.csprojResolveAssemblyReference.cache
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\obj\Release\ClassMydll.csproj.CoreCompileInputs.cache
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\obj\Release\ClassMydll.dll
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\obj\Release\ClassMydll.pdb

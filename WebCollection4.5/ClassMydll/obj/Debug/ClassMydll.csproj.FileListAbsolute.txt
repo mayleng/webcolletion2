@@ -1,0 +1,16 @@
+C:\Users\bonree\Desktop\webapi\WebCollection\ClassMydll\bin\Debug\ClassMydll.dll
+C:\Users\bonree\Desktop\webapi\WebCollection\ClassMydll\bin\Debug\ClassMydll.pdb
+C:\Users\bonree\Desktop\webapi\WebCollection\ClassMydll\obj\Debug\ClassMydll.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\WebCollection\ClassMydll\obj\Debug\ClassMydll.dll
+C:\Users\bonree\Desktop\webapi\WebCollection\ClassMydll\obj\Debug\ClassMydll.pdb
+C:\Users\bonree\Desktop\webapi\netframework\WebCollection\ClassMydll\bin\Debug\ClassMydll.dll
+C:\Users\bonree\Desktop\webapi\netframework\WebCollection\ClassMydll\bin\Debug\ClassMydll.pdb
+C:\Users\bonree\Desktop\webapi\netframework\WebCollection\ClassMydll\obj\Debug\ClassMydll.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\netframework\WebCollection\ClassMydll\obj\Debug\ClassMydll.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\netframework\WebCollection\ClassMydll\obj\Debug\ClassMydll.dll
+C:\Users\bonree\Desktop\webapi\netframework\WebCollection\ClassMydll\obj\Debug\ClassMydll.pdb
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\bin\Debug\ClassMydll.dll
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\bin\Debug\ClassMydll.pdb
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\obj\Debug\ClassMydll.csproj.CoreCompileInputs.cache
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\obj\Debug\ClassMydll.dll
+D:\May\webapi\netframework\WebCollection4.5\ClassMydll\obj\Debug\ClassMydll.pdb

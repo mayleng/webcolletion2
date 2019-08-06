@@ -1,0 +1,777 @@
+﻿iisexpress.exe Error: 0 : 2017-12-29 16:39:58 TRACE ERROR
+iisexpress.exe Warning: 0 : 2017-12-29 16:39:58 trace warn
+iisexpress.exe Information: 0 : 2017-12-29 16:39:58 trace info
+2017-12-29 16:39:58  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 54iisexpress.exe Error: 0 : 2017-12-29 16:39:58 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2017-12-29 16:39:58 记录日志 trace warn
+iisexpress.exe Information: 0 : 2017-12-29 16:39:58 记录日志 trace info
+2017-12-29 16:39:58 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-01-05 15:37:19 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:19 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:19 trace info
+2018-01-05 15:37:19  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-01-05 15:37:19 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:19 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:19 记录日志 trace info
+2018-01-05 15:37:19 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-01-05 15:37:26 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:26 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:26 trace info
+2018-01-05 15:37:26  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-01-05 15:37:26 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:26 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:26 记录日志 trace info
+2018-01-05 15:37:26 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-01-05 15:37:32 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:32 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:32 trace info
+2018-01-05 15:37:32  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-01-05 15:37:32 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:32 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:32 记录日志 trace info
+2018-01-05 15:37:32 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-01-05 15:37:50 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:50 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:50 trace info
+2018-01-05 15:37:50  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-01-05 15:37:50 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:50 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:50 记录日志 trace info
+2018-01-05 15:37:50 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-02-08 14:16:46 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-02-08 14:16:47 trace warn
+iisexpress.exe Information: 0 : 2018-02-08 14:16:47 trace info
+2018-02-08 14:16:47  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-02-08 14:16:47 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-02-08 14:16:47 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-02-08 14:16:47 记录日志 trace info
+2018-02-08 14:16:47 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-02-08 14:16:50 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-02-08 14:16:50 trace warn
+iisexpress.exe Information: 0 : 2018-02-08 14:16:50 trace info
+2018-02-08 14:16:50  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-02-08 14:16:50 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-02-08 14:16:50 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-02-08 14:16:50 记录日志 trace info
+2018-02-08 14:16:50 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-05-18 17:40:29 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-05-18 17:40:29 trace warn
+iisexpress.exe Information: 0 : 2018-05-18 17:40:29 trace info
+2018-05-18 17:40:29  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\netframework\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-05-18 17:40:30 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-05-18 17:40:30 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-05-18 17:40:30 记录日志 trace info
+2018-05-18 17:40:30 失败: trace ********Fail 
+w3wp.exe Error: 0 : 2019-03-15 14:08:11 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-15 14:08:11 trace warn
+w3wp.exe Information: 0 : 2019-03-15 14:08:11 trace info
+2019-03-15 14:08:11  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-03-15 14:08:11 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-15 14:08:11 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-03-15 14:08:11 记录日志 trace info
+2019-03-15 14:08:11 失败: trace ********Fail 
+w3wp.exe Error: 0 : 2019-03-15 14:49:13 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-15 14:49:13 trace warn
+w3wp.exe Information: 0 : 2019-03-15 14:49:13 trace info
+2019-03-15 14:49:13  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-03-15 14:49:13 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-15 14:49:13 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-03-15 14:49:13 记录日志 trace info
+2019-03-15 14:49:13 失败: trace ********Fail 
+w3wp.exe Error: 0 : 2019-03-15 15:43:57 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-15 15:43:57 trace warn
+w3wp.exe Information: 0 : 2019-03-15 15:43:57 trace info
+2019-03-15 15:43:57  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-03-15 15:43:57 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-15 15:43:57 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-03-15 15:43:57 记录日志 trace info
+2019-03-15 15:43:57 失败: trace ********Fail 
+w3wp.exe Error: 0 : 2019-03-22 11:36:16 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-22 11:36:16 trace warn
+w3wp.exe Information: 0 : 2019-03-22 11:36:16 trace info
+2019-03-22 11:36:16  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-03-22 11:36:16 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-22 11:36:16 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-03-22 11:36:16 记录日志 trace info
+2019-03-22 11:36:16 失败: trace ********Fail 
+w3wp.exe Error: 0 : 2019-03-26 11:38:52 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-26 11:38:52 trace warn
+w3wp.exe Information: 0 : 2019-03-26 11:38:52 trace info
+2019-03-26 11:38:52  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-03-26 11:38:52 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-26 11:38:52 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-03-26 11:38:52 记录日志 trace info
+2019-03-26 11:38:52 失败: trace ********Fail 
+2019-03-26 11:51:45 正在中止线程。
+2019-03-26 11:51:45 正在中止线程。
+2019-03-26 11:51:45 正在中止线程。
+2019-03-26 11:51:45 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-03-26 11:51:45 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-03-26 11:51:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+w3wp.exe Error: 0 : 2019-03-29 16:59:30 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-29 16:59:30 trace warn
+w3wp.exe Information: 0 : 2019-03-29 16:59:30 trace info
+2019-03-29 16:59:30  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-03-29 16:59:30 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-29 16:59:30 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-03-29 16:59:30 记录日志 trace info
+2019-03-29 16:59:30 失败: trace ********Fail 
+2019-03-29 17:20:56 正在中止线程。
+2019-03-29 17:20:56 正在中止线程。
+2019-03-29 17:20:56 正在中止线程。
+2019-03-29 17:20:56 正在中止线程。
+2019-03-29 17:20:56 正在中止线程。
+2019-03-29 17:20:56 正在中止线程。
+2019-03-29 17:20:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-03-29 17:20:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-03-29 17:20:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-03-29 17:20:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-03-29 17:20:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-03-29 17:20:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+w3wp.exe Error: 0 : 2019-03-29 17:36:20 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-29 17:36:20 trace warn
+w3wp.exe Information: 0 : 2019-03-29 17:36:20 trace info
+2019-03-29 17:36:20  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-03-29 17:36:20 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-03-29 17:36:20 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-03-29 17:36:20 记录日志 trace info
+2019-03-29 17:36:20 失败: trace ********Fail 
+2019-04-01 18:31:20 正在中止线程。
+2019-04-01 18:31:21 正在中止线程。
+2019-04-01 18:31:21 正在中止线程。
+2019-04-01 18:31:21 正在中止线程。
+2019-04-01 18:31:21 正在中止线程。
+2019-04-01 18:31:21 正在中止线程。
+2019-04-01 18:31:21 正在中止线程。
+2019-04-01 18:31:21 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-01 18:31:21 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-01 18:31:22 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-01 18:31:22 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-01 18:31:22 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-01 18:31:22 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-01 18:31:22 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-03 12:07:24 正在中止线程。
+2019-04-03 12:07:24 正在中止线程。
+2019-04-03 12:07:24 正在中止线程。
+2019-04-03 12:07:24 正在中止线程。
+2019-04-03 12:07:24 正在中止线程。
+2019-04-03 12:07:24 正在中止线程。
+2019-04-03 12:07:24 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-03 12:07:25 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-03 12:07:25 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-03 12:07:25 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-03 12:07:25 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-03 12:07:25 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+w3wp.exe Error: 0 : 2019-04-03 15:53:19 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-04-03 15:53:19 trace warn
+w3wp.exe Information: 0 : 2019-04-03 15:53:19 trace info
+2019-04-03 15:53:19  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-04-03 15:53:19 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-04-03 15:53:19 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-04-03 15:53:19 记录日志 trace info
+2019-04-03 15:53:19 失败: trace ********Fail 
+2019-04-03 16:40:58 正在中止线程。
+2019-04-03 16:40:58 正在中止线程。
+2019-04-03 16:40:58 正在中止线程。
+2019-04-03 16:40:58 正在中止线程。
+2019-04-03 16:40:58 正在中止线程。
+2019-04-03 16:40:58 正在中止线程。
+2019-04-03 16:40:59 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-03 16:40:59 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-03 16:40:59 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-03 16:40:59 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-03 16:40:59 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-03 16:40:59 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+w3wp.exe Error: 0 : 2019-04-12 10:41:42 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-04-12 10:41:42 trace warn
+w3wp.exe Information: 0 : 2019-04-12 10:41:42 trace info
+2019-04-12 10:41:42  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-04-12 10:41:42 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-04-12 10:41:42 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-04-12 10:41:42 记录日志 trace info
+2019-04-12 10:41:42 失败: trace ********Fail 
+2019-04-12 11:06:12 正在中止线程。
+2019-04-12 11:06:12 正在中止线程。
+2019-04-12 11:06:12 正在中止线程。
+2019-04-12 11:06:12 正在中止线程。
+2019-04-12 11:06:12 正在中止线程。
+2019-04-12 11:06:12 正在中止线程。
+2019-04-12 11:06:13 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-12 11:06:13 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-12 11:06:13 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-12 11:06:13 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-12 11:06:13 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-12 11:06:13 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-15 11:24:09 正在中止线程。
+2019-04-15 11:24:09 正在中止线程。
+2019-04-15 11:24:09 正在中止线程。
+2019-04-15 11:24:09 正在中止线程。
+2019-04-15 11:24:09 正在中止线程。
+2019-04-15 11:24:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-15 11:24:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-15 11:24:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-15 11:24:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-15 11:24:10 正在中止线程。
+2019-04-15 11:24:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-15 11:24:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-29 10:29:53 正在中止线程。
+2019-04-29 10:29:53 正在中止线程。
+2019-04-29 10:29:53 正在中止线程。
+2019-04-29 10:29:53 正在中止线程。
+2019-04-29 10:29:53 正在中止线程。
+2019-04-29 10:29:53 正在中止线程。
+2019-04-29 10:29:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-29 10:29:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-29 10:29:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-29 10:29:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-29 10:29:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-29 10:29:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-30 10:51:41 正在中止线程。
+2019-04-30 10:51:41 正在中止线程。
+2019-04-30 10:51:41 正在中止线程。
+2019-04-30 10:51:41 正在中止线程。
+2019-04-30 10:51:41 正在中止线程。
+2019-04-30 10:51:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-30 10:51:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-04-30 10:51:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-30 10:51:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-30 10:51:42 正在中止线程。
+2019-04-30 10:51:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-30 10:51:42 正在中止线程。
+2019-04-30 10:51:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-04-30 10:51:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-05 17:43:56 正在中止线程。
+2019-05-05 17:43:56 正在中止线程。
+2019-05-05 17:43:56 正在中止线程。
+2019-05-05 17:43:56 正在中止线程。
+2019-05-05 17:43:56 正在中止线程。
+2019-05-05 17:43:56 正在中止线程。
+2019-05-05 17:43:56 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-05 17:43:56 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-05 17:43:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-05 17:43:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-05 17:43:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-05 17:43:57 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 正在中止线程。
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-06 10:00:46 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-09 15:05:52 正在中止线程。
+2019-05-09 15:05:52 正在中止线程。
+2019-05-09 15:05:52 正在中止线程。
+2019-05-09 15:05:52 正在中止线程。
+2019-05-09 15:05:52 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-09 15:05:52 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-09 15:05:53 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-09 15:05:53 正在中止线程。
+2019-05-09 15:05:53 正在中止线程。
+2019-05-09 15:05:53 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-09 15:05:53 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-09 15:05:53 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-09 17:24:41 正在中止线程。
+2019-05-09 17:24:41 正在中止线程。
+2019-05-09 17:24:41 正在中止线程。
+2019-05-09 17:24:41 正在中止线程。
+2019-05-09 17:24:41 正在中止线程。
+2019-05-09 17:24:41 正在中止线程。
+2019-05-09 17:24:41 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-09 17:24:41 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-09 17:24:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-09 17:24:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-09 17:24:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-09 17:24:42 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-05-17 11:48:34 正在中止线程。
+2019-05-17 11:48:34 正在中止线程。
+2019-05-17 11:48:34 正在中止线程。
+2019-05-17 11:48:34 正在中止线程。
+2019-05-17 11:48:34 正在中止线程。
+2019-05-17 11:48:34 正在中止线程。
+2019-05-17 11:48:34 正在中止线程。
+2019-05-17 11:48:34 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-17 11:48:35 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+w3wp.exe Error: 0 : 2019-05-22 14:33:23 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-05-22 14:33:23 trace warn
+w3wp.exe Information: 0 : 2019-05-22 14:33:23 trace info
+2019-05-22 14:33:23  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-05-22 14:33:23 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-05-22 14:33:23 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-05-22 14:33:23 记录日志 trace info
+2019-05-22 14:33:23 失败: trace ********Fail 
+2019-05-22 14:46:15 正在中止线程。
+2019-05-22 14:46:15 正在中止线程。
+2019-05-22 14:46:15 正在中止线程。
+2019-05-22 14:46:15 正在中止线程。
+2019-05-22 14:46:15 正在中止线程。
+2019-05-22 14:46:15 正在中止线程。
+2019-05-22 14:46:15 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-05-22 14:46:16 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+w3wp.exe Error: 0 : 2019-06-27 11:16:20 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-06-27 11:16:20 trace warn
+w3wp.exe Information: 0 : 2019-06-27 11:16:20 trace info
+2019-06-27 11:16:20  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-06-27 11:16:20 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-06-27 11:16:20 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-06-27 11:16:20 记录日志 trace info
+2019-06-27 11:16:20 失败: trace ********Fail 
+2019-07-02 18:00:14 正在中止线程。
+2019-07-02 18:00:14 正在中止线程。
+2019-07-02 18:00:14 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-02 18:00:15 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-09 16:48:48 正在中止线程。
+2019-07-09 16:48:48 正在中止线程。
+2019-07-09 16:48:48 正在中止线程。
+2019-07-09 16:48:48 正在中止线程。
+2019-07-09 16:48:48 正在中止线程。
+2019-07-09 16:48:48 正在中止线程。
+2019-07-09 16:48:49 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-09 16:48:49 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-09 16:48:49 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-09 16:48:49 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-09 16:48:49 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-09 16:48:49 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-11 20:54:14 正在中止线程。
+2019-07-11 20:54:14 正在中止线程。
+2019-07-11 20:54:14 正在中止线程。
+2019-07-11 20:54:14 正在中止线程。
+2019-07-11 20:54:14 正在中止线程。
+2019-07-11 20:54:14 正在中止线程。
+2019-07-11 20:54:14 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-11 20:54:15 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-11 20:54:15 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-11 20:54:15 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-11 20:54:15 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-11 20:54:15 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-12 17:52:09 正在中止线程。
+2019-07-12 17:52:09 正在中止线程。
+2019-07-12 17:52:09 正在中止线程。
+2019-07-12 17:52:09 正在中止线程。
+2019-07-12 17:52:09 正在中止线程。
+2019-07-12 17:52:09 正在中止线程。
+2019-07-12 17:52:09 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-12 17:52:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-12 17:52:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-12 17:52:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-12 17:52:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-12 17:52:10 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-16 10:19:43 正在中止线程。
+2019-07-16 10:19:43 正在中止线程。
+2019-07-16 10:19:43 正在中止线程。
+2019-07-16 10:19:43 正在中止线程。
+2019-07-16 10:19:43 正在中止线程。
+2019-07-16 10:19:43 正在中止线程。
+2019-07-16 10:19:43 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-16 10:19:43 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-16 10:19:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-16 10:19:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-16 10:19:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-16 10:19:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+w3wp.exe Error: 0 : 2019-07-16 10:48:33 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-16 10:48:33 trace warn
+w3wp.exe Information: 0 : 2019-07-16 10:48:33 trace info
+2019-07-16 10:48:33  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-07-16 10:48:33 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-16 10:48:33 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-07-16 10:48:33 记录日志 trace info
+2019-07-16 10:48:33 失败: trace ********Fail 
+w3wp.exe Error: 0 : 2019-07-16 10:52:15 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-16 10:52:15 trace warn
+w3wp.exe Information: 0 : 2019-07-16 10:52:15 trace info
+2019-07-16 10:52:15  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-07-16 10:52:15 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-16 10:52:15 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-07-16 10:52:15 记录日志 trace info
+2019-07-16 10:52:15 失败: trace ********Fail 
+2019-07-16 16:35:53 正在中止线程。
+2019-07-16 16:35:53 正在中止线程。
+2019-07-16 16:35:53 正在中止线程。
+2019-07-16 16:35:53 正在中止线程。
+2019-07-16 16:35:53 正在中止线程。
+2019-07-16 16:35:53 正在中止线程。
+2019-07-16 16:35:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-16 16:35:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-16 16:35:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-16 16:35:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-16 16:35:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-16 16:35:54 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+w3wp.exe Error: 0 : 2019-07-19 11:22:31 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-19 11:22:32 trace warn
+w3wp.exe Information: 0 : 2019-07-19 11:22:32 trace info
+2019-07-19 11:22:32  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-07-19 11:22:32 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-19 11:22:32 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-07-19 11:22:32 记录日志 trace info
+2019-07-19 11:22:32 失败: trace ********Fail 
+w3wp.exe Error: 0 : 2019-07-19 11:31:32 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-19 11:31:32 trace warn
+w3wp.exe Information: 0 : 2019-07-19 11:31:32 trace info
+2019-07-19 11:31:32  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-07-19 11:31:32 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-19 11:31:32 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-07-19 11:31:32 记录日志 trace info
+2019-07-19 11:31:32 失败: trace ********Fail 
+2019-07-19 14:08:49 正在中止线程。
+2019-07-19 14:08:49 正在中止线程。
+2019-07-19 14:08:49 正在中止线程。
+2019-07-19 14:08:49 正在中止线程。
+2019-07-19 14:08:49 正在中止线程。
+2019-07-19 14:08:49 正在中止线程。
+2019-07-19 14:08:50 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-19 14:08:50 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-19 14:08:50 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-19 14:08:50 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-19 14:08:50 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-19 14:08:50 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-22 10:21:34 正在中止线程。
+2019-07-22 10:21:35 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-22 11:17:35 正在中止线程。
+2019-07-22 11:17:35 正在中止线程。
+2019-07-22 11:17:35 正在中止线程。
+2019-07-22 11:17:35 正在中止线程。
+2019-07-22 11:17:35 正在中止线程。
+2019-07-22 11:17:35 正在中止线程。
+2019-07-22 11:17:36 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-22 11:17:36 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-22 11:17:36 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-07-22 11:17:36 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-22 11:17:36 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-07-22 11:17:36 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+w3wp.exe Error: 0 : 2019-07-30 11:17:47 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-30 11:17:47 trace warn
+w3wp.exe Information: 0 : 2019-07-30 11:17:47 trace info
+2019-07-30 11:17:47  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 D:\May\webapi\netframework\WebCollection4.5\WebCollection\Default.aspx.cs:行号 57w3wp.exe Error: 0 : 2019-07-30 11:17:47 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2019-07-30 11:17:47 记录日志 trace warn
+w3wp.exe Information: 0 : 2019-07-30 11:17:47 记录日志 trace info
+2019-07-30 11:17:47 失败: trace ********Fail 
+2019-08-01 17:35:43 正在中止线程。
+2019-08-01 17:35:43 正在中止线程。
+2019-08-01 17:35:43 正在中止线程。
+2019-08-01 17:35:43 正在中止线程。
+2019-08-01 17:35:43 正在中止线程。
+2019-08-01 17:35:43 正在中止线程。
+2019-08-01 17:35:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-08-01 17:35:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-08-01 17:35:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 290
+   在 StackExchange.Redis.SocketManager.Read() 位置 C:\code\StackExchange.Redis\StackExchange.Redis\StackExchange\Redis\SocketManager.Poll.cs:行号 124
+2019-08-01 17:35:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-08-01 17:35:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
+2019-08-01 17:35:44 System.Threading.ThreadAbortException: 正在中止线程。
+   在 StackExchange.Redis.SocketManager.ReadImpl()
+   在 StackExchange.Redis.SocketManager.Read()
